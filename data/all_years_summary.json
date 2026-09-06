@@ -1,0 +1,230 @@
+{
+  "1963": {
+    "total_rows": 20,
+    "n_tickers": 20,
+    "nulls": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "zeros": {
+      "open": 11,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "maxes": {
+      "open": 5.446800231933594,
+      "high": 250.625,
+      "low": 247.5,
+      "close": 249.375,
+      "adj_close": 116.98737335205078,
+      "volume": 2387200
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  },
+  "1974": {
+    "total_rows": 177,
+    "n_tickers": 177,
+    "nulls": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "zeros": {
+      "open": 95,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 11
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 1,
+      "volume": 0
+    },
+    "maxes": {
+      "open": 346.25,
+      "high": 346.25,
+      "low": 340.4166564941406,
+      "close": 342.2916564941406,
+      "adj_close": 272.89990234375,
+      "volume": 3494400
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  },
+  "1985": {
+    "total_rows": 670,
+    "n_tickers": 670,
+    "nulls": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "zeros": {
+      "open": 363,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 46
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 3,
+      "volume": 0
+    },
+    "maxes": {
+      "open": 58750.0,
+      "high": 120000.0,
+      "low": 119531.25,
+      "close": 120000.0,
+      "adj_close": 103498.40625,
+      "volume": 43825600
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  },
+  "1996": {
+    "total_rows": 1,
+    "n_tickers": 1,
+    "nulls": {
+      "open": 1,
+      "high": 1,
+      "low": 1,
+      "close": 1,
+      "adj_close": 1,
+      "volume": 1
+    },
+    "zeros": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "maxes": {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "adj_close": null,
+      "volume": null
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  },
+  "2007": {
+    "total_rows": 3008,
+    "n_tickers": 3008,
+    "nulls": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "zeros": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 131
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 2,
+      "volume": 0
+    },
+    "maxes": {
+      "open": 35002798080.0,
+      "high": 35985600512.0,
+      "low": 34927198208.0,
+      "close": 35305201664.0,
+      "adj_close": 35305201664.0,
+      "volume": 531622900
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  },
+  "2018": {
+    "total_rows": 1,
+    "n_tickers": 1,
+    "nulls": {
+      "open": 1,
+      "high": 1,
+      "low": 1,
+      "close": 1,
+      "adj_close": 1,
+      "volume": 1
+    },
+    "zeros": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "negatives": {
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "adj_close": 0,
+      "volume": 0
+    },
+    "maxes": {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "adj_close": null,
+      "volume": null
+    },
+    "pk_dupes": 0,
+    "full_dupes": 0
+  }
+}
